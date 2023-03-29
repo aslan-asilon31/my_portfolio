@@ -45,7 +45,7 @@ canvas {
 
 
   header {
-    background: var(--dark-bg);
+    /* background: var(--dark-bg); */
     grid-column: 2 / span 5;
     font-size: 2.5rem;
     padding: 2rem;
@@ -55,7 +55,7 @@ canvas {
   section {
     grid-column: 2 / 8;
     padding: 1rem;
-    background: var(--dark-bg);
+    /* background: var(--dark-bg); */
     font-size: 1.25rem;
     line-height: 1.5;
     margin-bottom: var(--spacing);
